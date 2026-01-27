@@ -17,7 +17,7 @@ The course explores the theoretical foundations and practical applications of De
 * **Course Title:** Deep Learning for Visual Computing
 * **Platform:** NPTEL (National Programme on Technology Enhanced Learning)
 * **Institution:** IIT Kharagpur
-* **Instructor:** Prof. Debdoot Sheet (Dept. of Electrical Engineering)
+* **Instructor:** Dr. Debdoot Sheet (Dept. of Electrical Engineering)
 * **Duration:** 12 Weeks
 
 ---
