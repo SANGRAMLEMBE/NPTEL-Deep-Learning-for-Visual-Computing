@@ -3,7 +3,7 @@
 
 [![NPTEL](https://img.shields.io/badge/NPTEL-Deep%20Learning%20for%20Visual%20Computing-brightgreen)](https://nptel.ac.in/courses/108105103)
 [![Institute](https://img.shields.io/badge/Institute-IIT%20Kharagpur-blue)](http://www.iitkgp.ac.in/)
-[![Instructor](https://img.shields.io/badge/Instructor-Prof.%20Debdoot%20Sheet-orange)](http://www.facweb.iitkgp.ac.in/~debdoot/)
+[![Instructor](https://img.shields.io/badge/Instructor-Dr.%20Debdoot%20Sheet-orange)](http://www.facweb.iitkgp.ac.in/~debdoot/)
 [![Language](https://img.shields.io/badge/Language-Python%20%7C%20PyTorch-yellow)]()
 
 ## 📌 Repository Overview
